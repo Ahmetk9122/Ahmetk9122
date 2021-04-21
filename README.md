@@ -1,4 +1,4 @@
-### Hi there, I'm Şahin HÜRCAN - sahinhurcan 👋
+### Hi there, I'm Ahmet KARABUDAK - Ahmetk9122 👋
 
 ## I'm a Student and Developer!
 
@@ -9,9 +9,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="sahinhurcan.com.tr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="sahinhurcan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="sahin | Gmail" width="22px" src="https://www.shareicon.net/data/512x512/2015/12/01/680912_email_512x512.png" />][mail]
+[<img align="left" alt="ahmetkarabudak.com.tr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="ahmetkarabudak | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ahmet | Gmail" width="22px" src="https://www.shareicon.net/data/512x512/2015/12/01/680912_email_512x512.png" />][mail]
 
 <br />
 
@@ -36,8 +36,8 @@
 ---
 
 
-<img align="left" alt="sahinhurcan Github Stats" src="https://github-readme-stats.vercel.app/api?username=sahinhurcan&count_private=true&show_icons=true&hide_border=true&theme=material-palenight" />
+<img align="left" alt="Ahmetk9122 Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ahmetk9122&count_private=true&show_icons=true&hide_border=true&theme=material-palenight" />
 
-[website]: https://sahinhurcan.com.tr/
-[linkedin]: https://www.linkedin.com/in/sahinhurcan/
-[mail]: mailto:sahin@sahinhurcan.com.tr
+[website]: https://ahmetkarabudak.wordpress.com/
+[linkedin]: https://www.linkedin.com/in/ahmet-karabudak/
+[mail]: ahmet.karabudakk.9122@gmail.com
