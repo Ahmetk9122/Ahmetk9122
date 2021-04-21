@@ -40,4 +40,4 @@
 
 [website]: https://ahmetkarabudak.wordpress.com/
 [linkedin]: https://www.linkedin.com/in/ahmet-karabudak/
-[mail]: ahmet.karabudakk.9122@gmail.com
+[mail]: mailto:ahmet.karabudakk.9122@gmail.com
