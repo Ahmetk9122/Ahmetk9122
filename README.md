@@ -42,5 +42,5 @@
 [linkedin]: https://www.linkedin.com/in/ahmet-karabudak/
 [mail]: mailto:ahmet.karabudakk.9122@gmail.com
 <div >
-<p align="left" style="float: right;margin-top: 75px;margin-right: 190px;"> <img src="https://komarev.com/ghpvc/?username=Ahmetk9122" alt="Ahmetk9122" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmetk9122" alt="Ahmetk9122" /> </p>
  </div>
