@@ -35,7 +35,8 @@
 
 ---
 
-[ocean_dark]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ocean_dark
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmetk9122&show_icons=true&theme=radical)
+
 [website]: https://ahmetkarabudak.com.tr/
 [linkedin]: https://www.linkedin.com/in/ahmet-karabudak/
 [mail]: mailto:ahmet.karabudakk.9122@gmail.com
