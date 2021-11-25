@@ -35,8 +35,7 @@
 
 ---
 
-
-<img align="left" alt="Ahmetk9122 Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ahmetk9122&count_private=true&show_icons=true&hide_border=true&theme=chartreuse-dark" />
+[blue-green]: https://github-readme-stats.vercel.app/api?username=Ahmetk9122&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=blue-green
 
 [website]: https://ahmetkarabudak.com.tr/
 [linkedin]: https://www.linkedin.com/in/ahmet-karabudak/
