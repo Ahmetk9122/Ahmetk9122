@@ -3,8 +3,8 @@
 ## I'm a Student and Developer!
 
 - :dart: I’m currently working on a .Net Core Project!
-- :computer: I’m currently learning React
-- :date: 2021 Goals: Contribute more to Open Source projects
+- :computer: I’m currently learning Flutter
+- :date: 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to explore new repositories
 
 ### Connect with me:
@@ -17,6 +17,7 @@
 
 ### Languages and Tools:
 
+[<img align="left" alt="Flutter" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" />]
 [<img align="left" alt="Csharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][website]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][website]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
