@@ -2,7 +2,7 @@
 
 ## I'm a Student and Developer!
 
-- :dart: I’m currently working on a .Net Core Project!
+- :dart: I’m currently working on a Flutter Project!
 - :computer: I’m currently learning Flutter
 - :date: 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to explore new repositories
