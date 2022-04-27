@@ -2,15 +2,15 @@
 
 ## I'm a Software Developer!
 
-- :dart: I’m currently working on a Flutter Project!
-- :computer: I’m currently learning Flutter
+- :dart: I’m currently working on a .NetCore Project!
+- :computer: I’m currently learning .NET Core, React.js etc.
 - :date: 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to explore new repositories
 
 ### Connect with me:
 
 [<img align="left" alt="ahmetkarabudak.com.tr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
-[<img align="left" alt="ahmetkarabudak | LinkedIn" width="22px" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" />][linkedin]
+<a href="https://www.linkedin.com/in/ahmet-karabudak/" target="blank"><img align="center" src="https://www.linkedin.com/in/ahmet-karabudak/" alt="AhmetKARABUDAK"  /></a>
 [<img align="left" alt="ahmet | Gmail" width="22px" src="https://www.shareicon.net/data/512x512/2015/12/01/680912_email_512x512.png" />][mail]
 
 <br />
