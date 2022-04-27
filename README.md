@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="ahmetkarabudak.com.tr" width="22px" src="file:///C:/Users/ahmet/Downloads/earth-svgrepo-com.svg" />][website]
+[<img align="left" alt="ahmetkarabudak.com.tr" width="22px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fuxwing.com%2Fwp-content%2Fthemes%2Fuxwing%2Fdownload%2F31-location-travel-map%2Fearth.svg&imgrefurl=https%3A%2F%2Fuxwing.com%2Fearth-icon%2F&tbnid=CJsUO8n-BCzQcM&vet=12ahUKEwiVlZuV77T3AhVQ4qQKHaDeAtMQMygIegUIARDMAQ..i&docid=RXJIBeVc4VAIeM&w=800&h=800&q=earth%20svg&ved=2ahUKEwiVlZuV77T3AhVQ4qQKHaDeAtMQMygIegUIARDMAQ" />][website]
 [<img align="left" alt="ahmetkarabudak | LinkedIn" width="22px" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" />][linkedin]
 [<img align="left" alt="ahmet | Gmail" width="22px" src="file:///C:/Users/ahmet/Downloads/mail-svgrepo-com.svg" />][mail]
 
