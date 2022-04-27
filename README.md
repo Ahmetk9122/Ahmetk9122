@@ -1,6 +1,6 @@
-### Hi there, I'm Ahmet KARABUDAK - Ahmetk9122 👋
+### Hi there, I'm Ahmet KARABUDAK 👋
 
-## I'm a Student and Developer!
+## I'm a Software Developer!
 
 - :dart: I’m currently working on a Flutter Project!
 - :computer: I’m currently learning Flutter
