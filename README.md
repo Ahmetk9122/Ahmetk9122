@@ -10,7 +10,7 @@
 ### Connect with me:
 
 [<img align="left" alt="ahmetkarabudak.com.tr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
-<a href="https://www.linkedin.com/in/ahmet-karabudak/" target="blank"><img align="center" src="https://www.linkedin.com/in/ahmet-karabudak/" alt="AhmetKARABUDAK"  /></a>
+<a href="https://www.linkedin.com/in/ahmet-karabudak/" target="blank"><img align="center" src="https://img.shields.io/badge/AhmetKarabudak-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="AhmetKarabudak"  /></a>
 [<img align="left" alt="ahmet | Gmail" width="22px" src="https://www.shareicon.net/data/512x512/2015/12/01/680912_email_512x512.png" />][mail]
 
 <br />
