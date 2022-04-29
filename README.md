@@ -5,7 +5,7 @@ I'm a Software Developer!
 -------------------------
 
 * 🌍  I'm based in Turkey/Kayseri
-* 🖥️  See my portfolio at [My Portfolio](http://https://ahmetkarabudak.com.tr/)
+* 🖥️  See my portfolio at [My Portfolio](https://ahmetkarabudak.com.tr/)
 * ✉️  You can contact me at [ahmet.karabudakk.9122@gmail.com](mailto:ahmet.karabudakk.9122@gmail.com)
 * 🚀  I'm currently working on [I’m currently working on a .NetCore Project!](http://github.com/Ahmetk9122/MVCTicariOtomasyon)
 * 🧠  I'm learning I’m currently learning .NET Core, React.js etc.
