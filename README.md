@@ -14,6 +14,10 @@ I'm a Software Developer!
 <a href="https://www.github.com/Ahmetk9122" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Ahmetk9122?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+<div >
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmetk9122" alt="Ahmetk9122" /> </p>
+ </div>
+
 ### Skills
 
 <p align="left">
@@ -57,6 +61,4 @@ src="https://img.shields.io/github/followers/Ahmetk9122?logo=github&style=for-th
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/ahmetkarabudak"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-<div >
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmetk9122" alt="Ahmetk9122" /> </p>
- </div>
+
