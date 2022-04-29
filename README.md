@@ -17,7 +17,9 @@ src="https://img.shields.io/github/followers/Ahmetk9122?logo=github&style=for-th
 <div >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmetk9122" alt="Ahmetk9122" /> </p>
  </div>
-
+ <br>
+    <br>
+    <img  height="250" width="500" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" /><br> 
 ### Skills
 
 <p align="left">
