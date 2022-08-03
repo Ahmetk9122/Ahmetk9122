@@ -4,11 +4,11 @@ Hi 👋 My name is Ahmet
 I'm a Software Developer!
 -------------------------
 
-* 🌍  I'm based in Turkey/Kayseri
+* 🌍  I'm based in Turkey/Denizli
 * 🖥️  See my portfolio at [My Portfolio](https://ahmetkarabudak.com.tr/)
 * ✉️  You can contact me at [ahmet.karabudakk.9122@gmail.com](mailto:ahmet.karabudakk.9122@gmail.com)
-* 🚀  I'm currently working on [I’m currently working on a .NetCore Project!](http://github.com/Ahmetk9122/MVCTicariOtomasyon)
-* 🧠  I'm learning I’m currently learning .NET Core, Flutter, React.js etc.
+* 🚀  I'm currently working on [I’m currently working on a .NetCore & Angular Project!](http://github.com/Ahmetk9122/MVCTicariOtomasyon)
+* 🧠  I'm learning I’m currently learning .NET Core, Flutter,Angular,React.js etc.
 * ⚡  I love to explore new repositories
 
 <a href="https://www.github.com/Ahmetk9122" target="_blank" rel="noreferrer"><img
